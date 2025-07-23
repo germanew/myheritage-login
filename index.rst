@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Start of  Zendesk Widget script -->
-<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=7668c976-0fb7-47ee-8740-3e9115bdb10f"> </script>
-<!-- End of  Zendesk Widget script -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>How to Log In to Your MyHeritage Account</title>
@@ -163,8 +160,8 @@
   <header>
     <h1>MyHeritage Login Guide</h1>
     <div class="nav-buttons">
-      <a href="https://aclogportal.com/">Login</a>
-      <a href="https://accuratelivechat.com">Support</a>
+      <a href="#login">Login</a>
+      <a href="#support">Support</a>
     </div>
   </header>
 
@@ -173,8 +170,7 @@
     <h2>Access Your MyHeritage Account Easily</h2>
   </div>
 
-  <!-- Main Content Container -->
-  <div class="container">
+  <!-- Main Content Container -->  <div class="container">
     <h3>How to Log In to Your MyHeritage Account: Step-by-Step Guide</h3>
     <p>MyHeritage has become one of the leading platforms for researching family history, building family trees, and discovering your genetic ancestry. With its diverse set of tools, it’s no wonder that so many people are turning to MyHeritage for both genealogical research and DNA testing services. If you’ve signed up for an account or are considering creating one, you may find yourself wondering, “How do I log in to my MyHeritage account?” This guide will take you through the entire process of accessing your MyHeritage account step by step, ensuring that you can easily sign in and make the most of your subscription.</p>
 
